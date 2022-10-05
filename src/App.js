@@ -54,23 +54,6 @@ function App() {
       statustest: true,
       status: "Monthly Status Reports",
     },
-    {
-      title: "PLUS",
-      price: "$9",
-      userBold: true,
-      user: "5 User",
-      data: "50GB Storage",
-      project: "Unlimited Public Projects",
-      access: "Community Access",
-      project1test: true,
-      project1: "Unlimited Private Projects",
-      PhoneSupporttest: true,
-      PhoneSupport: "Dedicated Phone Support",
-      domaintest: true,
-      domain: "Free Subdomain",
-      statustest: false,
-      status: "Monthly Status Reports",
-    },
   ];
   return (
     <>
